@@ -1,0 +1,1 @@
+model_quantized.onnx файл модели, находится на google диске
